@@ -1,0 +1,95 @@
+body{
+  background-attachment: fixed;
+  background-image: url(/img/bg.jpg);
+}
+
+h1{
+  font-size: 60px;
+  color: azure;
+}
+table{
+  text-align: center;
+  width: auto;
+  margin: 0 auto;
+}
+tr{
+  padding: 5px 10px;
+}
+th, td{
+  padding: 10px 15px;
+}
+iframe{
+  display: block;
+  margin: auto;
+}
+a:hover{
+  text-decoration: none;
+}
+.bg-primary{
+  background-color: #003049!important;
+}
+.border.pg1{
+  border-radius: 30px!important;
+}
+
+#pgs{
+  border-radius: 30px!important;
+  background-color: #d62828!important;
+}
+#pgp{
+  border-radius: 30px!important;
+  background-color: #023e8a!important;
+}
+#pgx{
+  border-radius: 30px!important;
+  background-color: #2b9348!important;
+}
+.centrar{
+  display: block;
+  margin: auto;
+}
+
+.centrar-texto{
+  text-align: center;
+}
+.hi{
+  background:black;
+  padding: 20px 0px;
+  margin-bottom: 0;
+}
+.hi2{
+  background:black;
+  padding: 0px 0px;
+  margin-bottom: 0;
+}
+.margin0{
+  margin-top: 0;
+}
+#menu{
+  margin-top: 0;
+  background:linear-gradient(to right, red 33%, blue 33%, blue 66%, green 66%, green 100%);
+}
+#logo1{
+  width: 50%;
+  align-content: block;
+}
+#logo2{
+  margin-top: 50px;
+  width: 70%;
+  align-content: block;
+}
+#logo3{
+  margin-top: 30px;
+  width: 45%;
+}
+label, input{
+  width: 100%;
+}
+#button{
+  width: 100px;
+  margin-top: 10px;
+}
+.cbg{
+  margin-top: 0;
+  width: 100%;
+}
